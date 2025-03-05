@@ -1,7 +1,7 @@
 # Welcome to Reid's Brain
 _A possibly morbid blog about that state of Reid's brain._
 
-So the big news is that I have brain cancer. How bad, progress et, ist still unknown. This is the plac where I'll be updating  for every
+So the big news is that I have brain cancer. How bad, progress et, ist still unknown. This is the plac where I'll be updating  for everyone.
 
 
 # Files
@@ -143,5 +143,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjIyMzczNyw4MjgzMjIwODVdfQ==
+eyJoaXN0b3J5IjpbMTk4OTExNDExMyw4MjgzMjIwODVdfQ==
 -->
