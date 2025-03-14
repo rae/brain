@@ -9,9 +9,10 @@ Today went to Princess Margaret hospital to get my radiation mask! Reminds me of
 # What I'm Up To
 I've been spending my time really getting into AI in the meanwhile. My goal is to use it with voice eventually in order to remain productive and fulfilled as long as possible.
 
-I'm taking courses, watching tons of YouTube and rea
+I'm taking courses, watching tons of YouTube and really thinking hard about buying an M3 Ultra Mac Studio :-D
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTI2OTA0MjMsMTEzMTAwNDM4LC0yND
+eyJoaXN0b3J5IjpbLTE4MTM5NjAyOTEsMTEzMTAwNDM4LC0yND
 c3Nzg4NjUsLTc1NzU0NDE5XX0=
 -->
