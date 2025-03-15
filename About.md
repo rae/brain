@@ -9,9 +9,11 @@ This was the day Luisa noticed my balance issues while shovelling snow off the d
 ## 2025-02-25 - (First) Operation
 Just ten days later they sawed my skull open and removed as much tumour as they could. Afterwards, I was stuck in hospital for a couple of weeks.
 
-Luisa and I managed to come down with COVID at the hospital. I'm thankful I was quad-vaxxed. Overall it was super-mild for me and they have me 
+Luisa and I managed to come down with COVID at the hospital. I'm thankful I was quad-vaxxed. Overall it was super-mild for me and they have me Paxlovid and Remdesivir.
 
 ## 2025-03-02 - Back Home
+
+Thanks to the COVID we had to stay away from Michael lafter I got home.
 
 # Onboarding for Radiation
 Today went to Princess Margaret hospital to get my radiation mask! Reminds me of old Bill Bixby Hulk show when he's in his rotating chair with targets.
@@ -23,6 +25,6 @@ I'm taking courses, watching tons of YouTube and really thinking hard about buyi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQ2ODY1OTAsLTE4MTM5NjAyOTEsMT
+eyJoaXN0b3J5IjpbLTEyNjAxMzQ5NzYsLTE4MTM5NjAyOTEsMT
 EzMTAwNDM4LC0yNDc3Nzg4NjUsLTc1NzU0NDE5XX0=
 -->
