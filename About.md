@@ -9,7 +9,7 @@ This was the day Luisa noticed my balance issues while shovelling snow off the d
 ## 2025-02-25 - (First) Operation
 Just ten days later they sawed my skull open and removed as much tumour as they could. Afterwards, I was stuck in hospital for a couple of weeks.
 
-There were, ala
+Luisa and I managed to come down with COVID at the hospital. I'm thankful I was quad-vaxxed. Overall it was super-mild for me and they have me 
 
 ## 2025-03-02 - Back Home
 
@@ -23,6 +23,6 @@ I'm taking courses, watching tons of YouTube and really thinking hard about buyi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDkxMTU0MTMsLTE4MTM5NjAyOTEsMT
+eyJoaXN0b3J5IjpbLTEzMTQ2ODY1OTAsLTE4MTM5NjAyOTEsMT
 EzMTAwNDM4LC0yNDc3Nzg4NjUsLTc1NzU0NDE5XX0=
 -->
