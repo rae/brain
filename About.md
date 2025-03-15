@@ -18,16 +18,16 @@ Thanks to the COVID we had to stay away from Michael lafter I got home. But at t
 ## 2025-03-11 - Staple removal
 Got all 28 staples removed from my skull today. It's incredible how little pain the whole operation thing has caused. I barely noticed it really.
 
-# Onboarding for Radiation
+# 2025-03-15 - Onboarding for Radiation
 Today went to Princess Margaret hospital to get my radiation mask! Reminds me of old Bill Bixby Hulk show when he's in his rotating chair with targets.
 
-# What I'm Up To
+# Meanwhile..
+
 I've been spending my time really getting into AI in the meanwhile. My goal is to use it with voice eventually in order to remain productive and fulfilled as long as possible.
 
 I'm taking courses, watching tons of YouTube and really thinking hard about buying an M3 Ultra Mac Studio :-D
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTQ3NTQ2NDEsLTE4MTM5NjAyOTEsMT
-EzMTAwNDM4LC0yNDc3Nzg4NjUsLTc1NzU0NDE5XX0=
+eyJoaXN0b3J5IjpbNzY1MTg2NDMzLC0xODEzOTYwMjkxLDExMz
+EwMDQzOCwtMjQ3Nzc4ODY1LC03NTc1NDQxOV19
 -->
