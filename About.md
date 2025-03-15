@@ -21,6 +21,7 @@ Got all 28 staples removed from my skull today. It's incredible how little pain 
 # 2025-03-15 - Onboarding for Radiation
 Today went to Princess Margaret hospital to get my radiation mask! Reminds me of old Bill Bixby Hulk show when he's in his rotating chair with targets.
 
+
 # Meanwhile..
 
 I've been spending my time really getting into AI in the meanwhile. My goal is to use it with voice eventually in order to remain productive and fulfilled as long as possible.
@@ -28,6 +29,7 @@ I've been spending my time really getting into AI in the meanwhile. My goal is t
 I'm taking courses, watching tons of YouTube and really thinking hard about buying an M3 Ultra Mac Studio :-D
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1MTg2NDMzLC0xODEzOTYwMjkxLDExMz
-EwMDQzOCwtMjQ3Nzc4ODY1LC03NTc1NDQxOV19
+eyJoaXN0b3J5IjpbMTM1NDI0MjAwMyw3NjUxODY0MzMsLTE4MT
+M5NjAyOTEsMTEzMTAwNDM4LC0yNDc3Nzg4NjUsLTc1NzU0NDE5
+XX0=
 -->
