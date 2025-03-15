@@ -13,9 +13,10 @@ Luisa and I managed to come down with COVID at the hospital. I'm thankful I was 
 
 ## 2025-03-02 - Back Home
 
-Thanks to the COVID we had to stay away from Michael lafter I got home. But at this point (2025-03-15) we are all clear and living comfortably and normallyI.
+Thanks to the COVID we had to stay away from Michael lafter I got home. But at this point (2025-03-15) we are all clear and living comfortably and normally.
+
 ## 2025-03-11 - Staple removal
-Got all 28 staples removed from my skull tod
+Got all 28 staples removed from my skull today. It's incredible how little pain the whole operation thing has caused. I barely noticed it really.
 
 # Onboarding for Radiation
 Today went to Princess Margaret hospital to get my radiation mask! Reminds me of old Bill Bixby Hulk show when he's in his rotating chair with targets.
@@ -27,6 +28,6 @@ I'm taking courses, watching tons of YouTube and really thinking hard about buyi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0MDQyOTQwLC0xODEzOTYwMjkxLDExMz
-EwMDQzOCwtMjQ3Nzc4ODY1LC03NTc1NDQxOV19
+eyJoaXN0b3J5IjpbLTE5OTQ3NTQ2NDEsLTE4MTM5NjAyOTEsMT
+EzMTAwNDM4LC0yNDc3Nzg4NjUsLTc1NzU0NDE5XX0=
 -->
