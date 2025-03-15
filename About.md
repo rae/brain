@@ -1,7 +1,10 @@
 # Welcome to Reid's Brain
 _A possibly morbid blog about that state of Reid's brain._
 
+## 2025-02-15
 So the big news is that I have brain cancer. How bad, progress et, is still unknown. This is the place where I'll be updating  for everyone.
+
+This was the day Luisa noticed my balance issues and took me to Centenary hospital. From arriving in the driveway to being inside a CT-
 
 # Onboarding for Radiation
 Today went to Princess Margaret hospital to get my radiation mask! Reminds me of old Bill Bixby Hulk show when he's in his rotating chair with targets.
@@ -13,6 +16,6 @@ I'm taking courses, watching tons of YouTube and really thinking hard about buyi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTM5NjAyOTEsMTEzMTAwNDM4LC0yND
-c3Nzg4NjUsLTc1NzU0NDE5XX0=
+eyJoaXN0b3J5IjpbMTc4NDMwNzgyOCwtMTgxMzk2MDI5MSwxMT
+MxMDA0MzgsLTI0Nzc3ODg2NSwtNzU3NTQ0MTldfQ==
 -->
